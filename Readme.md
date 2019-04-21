@@ -18,7 +18,7 @@ countChars('Gideon');
 
   As the input grows, the number of count operations grows.
   The time complexity is linear.
-  Code to remove duplicate values by creating an object as a property lookup
+  The following example is a code snippet to remove duplicate values by creating an object (breadcrumbs) as a table to look up values
   rather than using two for loops for comparison
 
 ```
