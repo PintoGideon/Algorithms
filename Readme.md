@@ -1,8 +1,6 @@
 # Alogrithms in JavaScript
 
-O(n^2) quadratic n^2(operations)  
- O(n) linear 2n
-O(1) constant n
+# Example
 
 ```
 var countChars=function(str){
@@ -16,15 +14,14 @@ var countChars=function(str){
 
 
 countChars('Gideon');
+```
 
-# As the input grows, the number of count operations grows.
+  As the input grows, the number of count operations grows.
   The time complexity is linear.
-
-
-# Code to remove duplicate values by creating an object as a property lookup
+  Code to remove duplicate values by creating an object as a property lookup
   rather than using two for loops for comparison
 
-
+```
 function removeDuplicate(arr){
 var breadcrumbs={};
 var result=[];
@@ -47,8 +44,7 @@ removeDuplicate([4,2,2,3,2,2,2]);
 
 Aside: A property lookup is a constant time operation
 
-# Optimizing with Caching -(Example in the slides)
-
+# Optimizing with Caching 
 # Optimizing with Closure
 
 ```
@@ -76,48 +72,5 @@ memoClosureTimes10(9);
 memoClosureTimes10(9); //90 //cached
 ```
 
-# What is a Data Strucuture?
 
-1. Background
-2. Impelementation
-3. Analysis
-4. Gain Experience and intuition
 
-# Stack
-
-JavaScript engines have a call stack and a message queue that executes your code at runtime
-
-Stack Stores in a last in, first out order.
-
-example: Array with functions like push and pop
-
-# Queue
-
-Stores items in a First in First out order.
-
-# Linked List
-
-Organizes items sequentially, with each pointer storing a pointer to the next.
-
-#Aside: Pass by value and Pass by reference.
-If you pass values of variables/string to a function and change the values inside the function, the values outside the function remains unchanged. Whereas for object the value change persists.
-
-# Singly LinkedList
-
-```
-
-const linkedList={
-  head:{
-      value:1
-      next:{
-          value:2
-          next:{
-              value:3
-              next:null
-          }
-      }
-  }
-
-```
-
-}
