@@ -2,7 +2,7 @@
 
 # Example
 
-```
+```javascript
 var countChars=function(str){
     var count=0;
 
