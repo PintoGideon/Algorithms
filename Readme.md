@@ -21,7 +21,7 @@ countChars('Gideon');
   The following example is a code snippet to remove duplicate values by creating an object (breadcrumbs) as a table to look up values
   rather than using two for loops for comparison
 
-```
+```javascript
 function removeDuplicate(arr){
 var breadcrumbs={};
 var result=[];
@@ -47,7 +47,7 @@ Aside: A property lookup is a constant time operation
 # Optimizing with Caching 
 # Optimizing with Closure
 
-```
+```javascript
 const memoizedClosureTimes10=()=>{
 let cache={};
 
