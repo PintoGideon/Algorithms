@@ -4,6 +4,9 @@ For every node, we are going to add the node's name in
 the final array, and then for every child node the node has,
 we are going to call the DFS function.
 
+
+![DepthFirst](https://user-images.githubusercontent.com/15992276/56922968-6d6d5b00-6a97-11e9-8f3e-80c9c0b0d9e9.JPG)
+
 We start at root node A and call the DFS function
 ```
 [A]
