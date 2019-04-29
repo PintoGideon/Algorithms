@@ -5,6 +5,7 @@ the final array, and then for every child node the node has,
 we are going to call the DFS function.
 
 We start at root node A and call the DFS function
+```
 [A]
 For B,C,D we call DFS
 [A,B]
@@ -26,6 +27,6 @@ Now we call DFS on the second child of node A
 Similary doing this for child D we get the final
 array as
 [A,B,E,F,I,J,C,D,G,K,H]
-
+```
 **Time=O(v+e)**
 **Space=O(V)**
