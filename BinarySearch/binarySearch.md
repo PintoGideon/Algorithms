@@ -43,7 +43,7 @@ The value of the node now is 13
 The closest value is 13
 ```
 
-###Time Complexity
+Time Complexity
 
 ***Average Case Scenario***
 Time=O(log(n))- n is the number of nodes
