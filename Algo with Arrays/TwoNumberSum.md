@@ -1,7 +1,9 @@
 # Two Number Sum Algorithm (Explaination)
 
 Give an array
+```
 [3,5,-4,8,11,1,-1,6]
+```
 and
 the integer 10
 
@@ -10,16 +12,19 @@ sum upto 10
 
 # Hash Table (Time=O(n), Space=O(n))
 
-### We will use a hashtable for property lookup to check if we have the number.
-
-Target Sum=10   x+y=10
+We will use a hashtable for property lookup to check if we have the number.
+```
+Target Sum=10   
+x+y=10
 current num=x 
 y=10-x
+```
 
-###Let's check for each number in the array
-
+Let's check for each number in the array
+```
 3
-y=10-3=7
+y=10-3
+y=7
 Is 3 in the hash table? No
 {3:"true}
 
@@ -45,6 +50,7 @@ Similary
 When we come across -1
 x+y=10
 y=10-(-1)=11
+```
 
 Is 11 in the hash table? Yes We have found our two numbers.
 
