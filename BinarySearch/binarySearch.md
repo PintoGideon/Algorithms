@@ -1,6 +1,7 @@
 # Find the closest value in Binary Search Tree
 
 ### The Explainations are a bit verbose.
+![ClosestValue](https://user-images.githubusercontent.com/15992276/56922626-a6590000-6a96-11e9-93d1-0f18dba1f7c9.JPG)
 
 **Target value 12**
 
@@ -11,8 +12,7 @@ of 10, we will compute the absolute value of the current node
 and the target value
 |10-12|=2
 
-Also our closest default value will be set to
-infinity
+Also our closest default value will be set to infinity
 closest=infinity
 |infinity-12|=infinity
 
@@ -42,13 +42,13 @@ The value of the node now is 13
 The closest value is 13
 
 
-Time Complexity
+###Time Complexity
 
-Average Case Scenario
+***Average Case Scenario***
 Time=O(log(n))- n is the number of nodes
 Space=O(log(n)) - n is the depth of the tree
 
-Worst Case Scenario (Tree has only on branch)
+***Worst Case Scenario*** (Tree has only on branch)
 Time=O(n)
 
 
