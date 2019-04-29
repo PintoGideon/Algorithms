@@ -8,12 +8,15 @@
 We will have a default closest value and we we will update it as we traverse the tree
 
 Starting at the root node which has a value of 10, we will compute the absolute value of the current node
-and the target value |10-12|=2
-
+and the target value 
+```
+|10-12|=2
+```
 Also our closest default value will be set to infinity 
-1.closest=infinity
-2.|infinity-12|=infinity
-
+```
+closest=infinity
+|infinity-12|=infinity
+```
 **infinity is an integer value**
 Here 2 is closest to 12 than infinity.
 Updating the value of closest to 10
