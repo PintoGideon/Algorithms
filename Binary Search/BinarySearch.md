@@ -1,6 +1,5 @@
 # Binary Search
 
-[0,1,21,33,45,45,61,71,72,73]
 
 ![BinarySearch](https://user-images.githubusercontent.com/15992276/57350673-043bb680-712d-11e9-8d2c-9dd1db11c99a.JPG)
 
