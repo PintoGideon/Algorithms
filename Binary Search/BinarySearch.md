@@ -12,7 +12,7 @@ We will initialize two pointers to the first and the last value respectively.
 
 The Middle value will be
 
-```
+```python
 M=(0+9)//2
 M=4 (Rounded Down value)
 
@@ -27,7 +27,7 @@ Grab the right pointer and place it to the left of the middle pointer
 Left->0
 Right->33
 
-```
+```python
 M=(0+3)//2
 M=1
  1<33
