@@ -40,6 +40,7 @@ Grab the left pointer and place it to the right of the middle pointer
 Left->21
 Right->33
 
+```python
 M=0+1//2
 M=0
 
@@ -48,9 +49,11 @@ M->21
 21 > 33
 Left->33
 Right->33
+```
 
 **_Time=O(log(n))_**
 **_Space=O(1)_**
+
 
 We are eliminating half of the input every time we recall the array hence the time complexity above.
 
