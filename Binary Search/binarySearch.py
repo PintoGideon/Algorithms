@@ -18,7 +18,10 @@ def binarySearchHelper(array, target, left, right):
     else:
          return binarySearchHelper(array, target,middle+1,right)
 
-# Iteratively
+
+
+
+# Alternate Solution- Iteratively
 
 def binarySearch(array,target):
     return binarySearchHelper(array,target,0,len(array)-1)
