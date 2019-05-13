@@ -29,7 +29,7 @@ example: [141,1,17,-7,-17,-27,18,541,8,7,7]
 
    [1, 17, 141]
 
-   Pop the first number from the array, move the 2nd number to thr first place
+   Pop the first number from the array, move the 2nd number to the first place
    and place 17 in the 2nd place
 
 4. -7, -17, -27
