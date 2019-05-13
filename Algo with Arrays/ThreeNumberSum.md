@@ -5,7 +5,7 @@
 ![threenumber](https://user-images.githubusercontent.com/15992276/57661327-5f9bf780-75b8-11e9-975d-31e6133ce0f3.png)
 
 
-[12,3,1,2,-6,5,-8,6]
+
 
 **_Target=0_**
 
