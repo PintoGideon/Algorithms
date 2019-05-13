@@ -1,10 +1,11 @@
 # Selection Sort
 
-[8,5,2,9,5,6,3]
+![selectionSort](https://user-images.githubusercontent.com/15992276/57644119-6bbc9080-7589-11e9-8062-b8a1af1ebb07.JPG)
 
 We are given a list of numbers and we are going to sort it by dividing the list into two.
 One sublist will represent sorted numbers
 The Other sublist will represent unsorted numbers.
+
 
 [8,5,2,9,5,6,3]
 
