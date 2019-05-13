@@ -1,4 +1,4 @@
-0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+ A Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
 
 ![algo-1](https://user-images.githubusercontent.com/15992276/57350672-043bb680-712d-11e9-9fd7-d00653dc1fa7.JPG)
 
@@ -8,9 +8,9 @@
 
 Question: Find the nth Fibonacci
 
-I am using a recursive alogirthm to solve this problem and would a base case.
+I am using a recursive alogirthm to solve this problem and would need a base case.
 
-Base Conditions:
+### Base Conditions:
 
 ```
 if n==2:
@@ -29,7 +29,7 @@ The time alogirthm isn't that great as there are some duplications operations th
 **_Time=O(2^n)_**
 **_Space=O(n)_**
 
-As we ar using the recursive call stack, the space complexity is O(n).
+As we are using the recursive call stack, the space complexity is ***O(n)***.
 We have n frames on the call stack as we have n function calls and at anytime
 of the given algorithm, we are using O(n) space.
 
@@ -52,7 +52,7 @@ Can we do better?
 
 Let's have an array of the last two values.
 
-```
+```python
 [0,1]
 
 If we have to calculate the fibonacci of
