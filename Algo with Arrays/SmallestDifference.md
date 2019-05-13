@@ -1,4 +1,7 @@
-#Smallest Difference
+# Smallest Difference
+
+![smallestDiff](https://user-images.githubusercontent.com/15992276/57661325-5f9bf780-75b8-11e9-9934-9666489d2280.png)
+![smallestDiff2](https://user-images.githubusercontent.com/15992276/57661326-5f9bf780-75b8-11e9-990f-752f0c06a074.png)
 
 A) [-1,5,10,20,28,3]
 B)[26,134,135,15,17]
