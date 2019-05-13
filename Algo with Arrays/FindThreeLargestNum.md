@@ -5,11 +5,15 @@
 Traverse through the array and keep track of the the three largest numbers.
 
 Declare an empty array
+```javascript
 [- - -]
+
+```
 The array will have number sorted in an ascending order which makes [3] the largest number. We will check if the largest number exists
 
 example: [141,1,17,-7,-17,-27,18,541,8,7,7]
 
+```javascript
 1. Does the Largest number exist? No
    [- - 141]
 
@@ -38,5 +42,6 @@ example: [141,1,17,-7,-17,-27,18,541,8,7,7]
 6. 541
    [18,141,541]
 
+```
 **_Time Complexity= O(n)_**
 **_Space Compexity=O(1)_**
