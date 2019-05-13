@@ -1,5 +1,7 @@
 **_This algorithm is not optimal as we do quite a bit of swapping_**.
 
+![insertionSort](https://user-images.githubusercontent.com/15992276/57644117-6bbc9080-7589-11e9-8fad-301a59e01d7f.JPG)
+
 **_Space Complexity=O(1)_**
 **_Time Complexity=O(n^2)_**
 
