@@ -9,7 +9,7 @@
 
 We start with 5 and check it with 8.
 
-```
+```javascript
 i=1
 j=1
 
@@ -21,7 +21,7 @@ j=0
 
 ```
 
-```
+```javascript
 
 i=2
 j=2
@@ -39,7 +39,7 @@ j=0
 
 We can now see that 2,5,8 are in sorted order
 
-```
+```javascript
 if 9 less than 8
 No
 ```
@@ -48,7 +48,7 @@ No
 Current sorted List
 [2,5,8,9,5,6,3]
 
-```
+```javascript
 If 5 less than 9
 Yes
 [2,5,8,5,9,6,3]
@@ -61,7 +61,7 @@ If 5 less than 5
 No
 ```
 
-```
+```javascript
 Similary for 6 and 3
 
 [2,5,5,6,8,9,3]
