@@ -1,5 +1,5 @@
-[8,5,2,9,5,6,3]
 
+![bubbleSort](https://user-images.githubusercontent.com/15992276/57644116-6bbc9080-7589-11e9-8c80-30d15320b586.JPG)
 ```javascript
 Is 8 less than or equal to 5
 No
