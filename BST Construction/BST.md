@@ -5,6 +5,7 @@ Every node in a BST has to satisfy the BST property.
 The ```BST``` property is defined as follows:
 
 ***A Node's (parent node) value should be greater than the value of the node to it's left and less that it's value to the right.***
+   ![Screenshot_2019-05-14 AlgoExpert Станьте экспертом по алгоритмам - Видеоуроки](https://user-images.githubusercontent.com/15992276/57819408-5ba5dc00-7756-11e9-86b1-8858a4305f40.png)
 
 
 We want our BST class to support the following 
