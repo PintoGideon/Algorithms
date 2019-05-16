@@ -1,5 +1,12 @@
 # Number of Ways To make Change
 
+
+![Capture](https://user-images.githubusercontent.com/15992276/57819514-c9520800-7756-11e9-9b3c-3676e94b8979.JPG)
+![capture1](https://user-images.githubusercontent.com/15992276/57819515-c9520800-7756-11e9-8536-fcf34cd4dca2.JPG)
+![capture3](https://user-images.githubusercontent.com/15992276/57819517-c9520800-7756-11e9-8909-14f3c99e03f3.JPG)
+![capture4](https://user-images.githubusercontent.com/15992276/57819518-c9520800-7756-11e9-82f0-5bbf6408d26a.JPG)
+
+
 We have $10 and an array [1,5,10,25] of integers
 which are coin denominations. We have to find the
 number of ways we can make change for the target
