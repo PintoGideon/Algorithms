@@ -24,7 +24,7 @@ return fib(n-1) + fib(n-2)
 
 ```
 
-The time complexity of this algorithm isn't that great as there are some duplications operations that we perform.
+The time complexity of this algorithm isn't that great as there are some duplicate operations that we perform.
 
 **_Time=O(2^n)_**
 **_Space=O(n)_**
