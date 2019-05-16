@@ -2,7 +2,7 @@
 
 Every node in a BST has to satisfy the BST property.
 
-The ````BST``` property is defined as follows:
+The ```BST``` property is defined as follows:
 
 ***A Node's (parent node) value should be greater than the value of the node to it's left and less that it's value to the right.***
 
