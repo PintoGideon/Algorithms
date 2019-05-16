@@ -1,6 +1,14 @@
 ## Max Subset Sum No adjacent
 
+
+
+![Screenshot_2019-05-15 AlgoExpert Станьте экспертом по алгоритмам - Видеоуроки(1)](https://user-images.githubusercontent.com/15992276/57819445-7ed08b80-7756-11e9-92a3-87eba045ba30.png)
+![Screenshot_2019-05-15 AlgoExpert Станьте экспертом по алгоритмам - Видеоуроки](https://user-images.githubusercontent.com/15992276/57819447-7ed08b80-7756-11e9-9905-2ba2c64b3bec.png)
+
+
+
 array=[7,10,12,7,9,14]
+
 
 **_Solution: 7+12+14=33_**
 
