@@ -13,7 +13,7 @@ number of ways we can make change for the target
 amount using the array. We can use one coin many times
 to meet our sum of $10.
 
-There are 4 ways in which we can make change.
+There are 4 ways in which we can make change for $10.
 
 ```python
 1. 1*10
@@ -24,12 +24,6 @@ There are 4 ways in which we can make change.
 
 We initialize the array all at zero
 except the first index which is set at 1.
-
-Why is that?
-This is going to serve as a base case. From
-an intuitive point of view, there is only
-one way to make change for \$0 and that is
-not to make any change.
 
 There is one way of making change for \$0
 and this is going to serve as a base case.
