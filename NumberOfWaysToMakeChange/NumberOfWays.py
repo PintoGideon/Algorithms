@@ -6,4 +6,4 @@ def numberOfWaysToMakeChange(target, denoms):
         for amount in range(1, target+1):
             if denom <= amount:
                 ways[amount] = ways[amount]+ways[amount-denom]
-    return ways[n]
+    return ways[target]
