@@ -3,12 +3,19 @@
 Target= $6
 Coins that we are given [1,2,4]
 
+
+
 Solution: 2+4=6
-2 coins
+We need two coins to make a sum of $6.
 
 
 We are going to loop through the denominations
 array at a time
+![minValue1](https://user-images.githubusercontent.com/15992276/57952930-a3df0e80-78bc-11e9-956d-57a209130882.JPG)
+![minValue2](https://user-images.githubusercontent.com/15992276/57952931-a3df0e80-78bc-11e9-8dff-f770526e5a9b.JPG)
+![minValue3](https://user-images.githubusercontent.com/15992276/57952932-a3df0e80-78bc-11e9-9b39-dff852a7205b.JPG)
+![minValue4](https://user-images.githubusercontent.com/15992276/57952933-a3df0e80-78bc-11e9-8d65-4722ec5bcfdd.JPG)
+
 
 ```python
 Is 1<=0
