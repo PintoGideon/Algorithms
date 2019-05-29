@@ -28,7 +28,7 @@ We cant add 7 and 10 together as they are adjacent
 [7,10]
 
 At index 2 we have 12
-We can add 7 and 12 here as they are not adjacent
+We can add 7 and 12 here as they are adjacent
 [7,10,19]
 
 At index 3 we have 7
