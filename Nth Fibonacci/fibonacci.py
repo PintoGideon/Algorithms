@@ -33,7 +33,7 @@ def getNthFib(n):
 
     while counter<=n:
         nextFib=lastTwo[0] + lastTwo[1]
-        last[0]=lastTwo[1]
+        lastTwo[0]=lastTwo[1]
         lastTwo[1]=nextFib
         counter +=1
     return lastTwo[1] if n>1 else lastTwo[0]
